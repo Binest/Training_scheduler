@@ -1,5 +1,7 @@
 # Training Scheduler Solo Project
-## Die Hard
+
+## Project Die Hard
+I often forget. The fact that humans don't die as easily as you think. And the pain that doesn't kill me only makes me stronger. So will coding and exercise.
 
 ## Objective
 
