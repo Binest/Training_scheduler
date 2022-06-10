@@ -12,6 +12,7 @@ I often forget. The fact that humans don't die as easily as you think. And the p
 - Addable list
 - Modifiable text(include training name, set, rm, and so on...)
 - Storable form
+- Buttons with Animations
 
 <br>
 
