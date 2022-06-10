@@ -37,7 +37,16 @@ I often forget. The fact that humans don't die as easily as you think. And the p
 
 <br>
 
-6. Add weather API
+6. Enable dark mode and white mode conversion
+
+<br>
+
+7. Put motivational phrases
+- Several phrases are exposed in rotation
+
+<br>
+
+8. Add weather API
 - Show weather when the running option is added
 
 <br>
@@ -46,7 +55,8 @@ I often forget. The fact that humans don't die as easily as you think. And the p
 
 FrontEnd
 - Javascript
-- React
+- Typescript
+- React(+styled components, slick)
 
 Common
 - git
